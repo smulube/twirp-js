@@ -5,9 +5,7 @@
   "peerDependencies": {
     "node-fetch": "^2.0.0"
   },
-  "optionalDependencies": {
-    "whatwg-fetch": "^2.0.3"
-  },
+  "optionalDependencies": {},
   "main": "./src/index-node.js",
   "browser": "./dist/main.js",
   "repository": "https://github.com/thechriswalker/twirp-js",
